@@ -23,9 +23,9 @@ module.exports = {
     Learning: {
       global: 'Learning',
       assets: [
-        'http://localhost:8080/aone/vue-components/0.1.0/js/base-vendors.js',
-        'http://localhost:8080/aone/vue-components/0.1.0/js/math.js',
-        'http://localhost:8080/aone/vue-components/0.1.0/css/math.css'
+        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/js/base-vendors.js',
+        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/js/example.js',
+        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/css/example.css'
       ]
     }
   }
