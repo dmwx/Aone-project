@@ -20,8 +20,8 @@ module.exports = {
         'https://cdn.bootcss.com/vue/2.5.15/vue.min.js'
       ]
     },
-    Learning: {
-      global: 'Learning',
+    aone: {
+      global: 'Aone',
       assets: [
         'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/js/base-vendors.js',
         'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/js/example.js',
