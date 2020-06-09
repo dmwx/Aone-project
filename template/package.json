@@ -1,7 +1,9 @@
 {
-  "name": "aone-vue-project",
+  "name": "{{ name }}",
   "version": "1.0.0",
   "private": true,
+  "author": "{{ author }}",
+  "description": "{{ description }}",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -36,6 +38,13 @@
     },
     "rules": {}
   },
+  "contributors":[
+    {
+      "name" : "shangwenhe",
+      "email" : "shangwenhe@vipkid.com.cn",
+      "url" : "https://github.com/shangwenhe"
+    }
+  ],
   "browserslist": [
     "> 1%",
     "last 2 versions",
