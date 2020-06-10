@@ -23,9 +23,9 @@ module.exports = {
     aone: {
       global: 'Aone',
       assets: [
-        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/js/base-vendors.js',
-        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/js/example.js',
-        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.0/css/example.css'
+        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.1/js/base-vendors.js',
+        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.1/js/example.js',
+        'https://dl.vipkidstatic.com/beeschool/entry/aone/example/1.0.1/css/example.css'
       ]
     }
   }
